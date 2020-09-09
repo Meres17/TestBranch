@@ -1,1 +1,7 @@
-.header {}
+.header {
+    width: 50px;
+}
+
+.container {
+    width: 50px;
+}
